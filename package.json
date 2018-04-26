@@ -14,13 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "f2e-middle-rollup": "^0.3.3",
-    "f2e-server": "^2.9.1",
+    "f2e-server": "^2.9.3",
     "less": "^2.7.3",
-    "rollup": "^0.58.1",
+    "rollup": "^0.58.2",
     "rollup-plugin-commonjs": "^9.1.0",
     "rollup-plugin-node-resolve": "^3.3.0",
     "rollup-plugin-typescript2": "^0.13.0",
-    "typescript": "^2.8.1"
+    "typescript": "^2.8.3"
   },
   "dependencies": {
     "@types/highcharts": "^5.0.22",
