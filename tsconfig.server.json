@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "moduleResolution": "node",
+        "maxNodeModuleJsDepth": 1,
+        "module": "commonjs",
+        "target": "esnext",
+        "outDir": "./lib"
+    },
+    "include": [
+        "server/**.ts",
+        "server/**.tsx"
+    ]
+}
